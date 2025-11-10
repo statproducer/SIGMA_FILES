@@ -1,0 +1,101 @@
+id,name,description,parent_id
+1,Citrus,Fruits rich in vitamin C with a tangy flavor,
+2,Berries,"Small, juicy fruits often used in desserts",
+3,Tropical,Fruits grown in tropical climates,
+4,Stone Fruits,Fruits with a large pit or stone inside,
+5,Pomes,Fruits with a core of seeds surrounded by flesh,
+6,Orange,A type of citrus fruit,1
+7,Lemon,A type of citrus fruit,1
+8,Lime,A type of citrus fruit,1
+9,Grapefruit,A type of citrus fruit,1
+10,Mandarin,A type of citrus fruit,1
+11,Strawberry,A type of berries fruit,2
+12,Blueberry,A type of berries fruit,2
+13,Raspberry,A type of berries fruit,2
+14,Blackberry,A type of berries fruit,2
+15,Gooseberry,A type of berries fruit,2
+16,Mango,A type of tropical fruit,3
+17,Pineapple,A type of tropical fruit,3
+18,Papaya,A type of tropical fruit,3
+19,Banana,A type of tropical fruit,3
+20,Guava,A type of tropical fruit,3
+21,Peach,A type of stone fruits fruit,4
+22,Cherry,A type of stone fruits fruit,4
+23,Plum,A type of stone fruits fruit,4
+24,Apricot,A type of stone fruits fruit,4
+25,Nectarine,A type of stone fruits fruit,4
+26,Apple,A type of pomes fruit,5
+27,Pear,A type of pomes fruit,5
+28,Quince,A type of pomes fruit,5
+29,Loquat,A type of pomes fruit,5
+30,Crabapple,A type of pomes fruit,5
+31,Cloudberry,A type of berries fruit,2
+32,Langsat,A type of stone fruits fruit,4
+33,Rambutan,A type of stone fruits fruit,4
+34,Salak,A type of stone fruits fruit,4
+35,Tamarind,A type of citrus fruit,1
+36,Clementine,A type of stone fruits fruit,4
+37,Cloudberry,A type of tropical fruit,3
+38,Carambola,A type of stone fruits fruit,4
+39,Horned Melon,A type of citrus fruit,1
+40,Persimmon,A type of tropical fruit,3
+41,Sapodilla,A type of pomes fruit,5
+42,Huckleberry,A type of stone fruits fruit,4
+43,Santol,A type of pomes fruit,5
+44,Custard Apple,A type of pomes fruit,5
+45,Sapodilla,A type of pomes fruit,5
+46,Fig,A type of stone fruits fruit,4
+47,Tangerine,A type of tropical fruit,3
+48,Breadfruit,A type of stone fruits fruit,4
+49,Persimmon,A type of tropical fruit,3
+50,Barberry,A type of pomes fruit,5
+51,Fig,A type of stone fruits fruit,4
+52,Feijoa,A type of berries fruit,2
+53,Clementine,A type of stone fruits fruit,4
+54,Feijoa,A type of pomes fruit,5
+55,Rose Apple,A type of citrus fruit,1
+56,Marang,A type of pomes fruit,5
+57,Langsat,A type of stone fruits fruit,4
+58,Huckleberry,A type of berries fruit,2
+59,Tangerine,A type of pomes fruit,5
+60,Boysenberry,A type of berries fruit,2
+61,Ackee,A type of citrus fruit,1
+62,Marang,A type of stone fruits fruit,4
+63,Fig,A type of pomes fruit,5
+64,Huckleberry,A type of pomes fruit,5
+65,Elderberry,A type of citrus fruit,1
+66,Langsat,A type of citrus fruit,1
+67,Langsat,A type of stone fruits fruit,4
+68,Persimmon,A type of citrus fruit,1
+69,Barberry,A type of stone fruits fruit,4
+70,Huckleberry,A type of pomes fruit,5
+71,Marang,A type of tropical fruit,3
+72,Fig,A type of pomes fruit,5
+73,Coconut,A type of citrus fruit,1
+74,Mulberry,A type of berries fruit,2
+75,Passionfruit,A type of berries fruit,2
+76,Longan,A type of pomes fruit,5
+77,Sapodilla,A type of stone fruits fruit,4
+78,Breadfruit,A type of tropical fruit,3
+79,Coconut,A type of stone fruits fruit,4
+80,Sugar Apple,A type of berries fruit,2
+81,Fig,A type of pomes fruit,5
+82,Currant,A type of berries fruit,2
+83,Tamarind,A type of tropical fruit,3
+84,Fig,A type of berries fruit,2
+85,Breadfruit,A type of citrus fruit,1
+86,Coconut,A type of citrus fruit,1
+87,Feijoa,A type of citrus fruit,1
+88,Rose Apple,A type of citrus fruit,1
+89,Carambola,A type of citrus fruit,1
+90,Tamarind,A type of tropical fruit,3
+91,Persimmon,A type of stone fruits fruit,4
+92,Horned Melon,A type of stone fruits fruit,4
+93,Persimmon,A type of stone fruits fruit,4
+94,Clementine,A type of tropical fruit,3
+95,Medlar,A type of pomes fruit,5
+96,Cloudberry,A type of berries fruit,2
+97,Custard Apple,A type of pomes fruit,5
+98,Jujube,A type of stone fruits fruit,4
+99,Carambola,A type of stone fruits fruit,4
+100,Passionfruit,A type of citrus fruit,1
